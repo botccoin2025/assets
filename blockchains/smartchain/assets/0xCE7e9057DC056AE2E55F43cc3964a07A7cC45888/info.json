@@ -1,0 +1,25 @@
+{
+    "name": "Little Bot Coin",
+    "website": "https://botccoin.eu",
+    "description": "The Silver Standard of BSC. Transparência. Confiança. Rendimento. BOTC é um protocolo descentralizado construído sobre a Binance Smart Chain com um compromisso inabalável: liquidez verificável, taxas fixas e contratos auditáveis.",
+    "symbol": "BOTC",
+    "explorer": "https://bscscan.com/token/0xCE7e9057DC056AE2E55F43cc3964a07A7cC45888",
+    "type": "BEP20",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCE7e9057DC056AE2E55F43cc3964a07A7cC45888",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BOTCOINBTC"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/botcoinofficial"
+        },
+        {
+            "name": "email",
+            "url": "mailto:official@botccoin.eu"
+        }
+    ]
+}
